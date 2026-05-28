@@ -1,0 +1,19 @@
+# Secrets
+.env
+env.sh
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Logs
+*.log
+*.err
+
+# OS
+.DS_Store
+Thumbs.db
